@@ -1,0 +1,16 @@
+# --- IDE & System Files ---
+.antigravity/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+# --- Security & Sensitive Data ---
+*.key
+*.pem
+*.pfx
+*.secret
+*secret*
+*token*
+*.env
